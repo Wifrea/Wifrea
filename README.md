@@ -6,7 +6,7 @@
 
  [My Personality Type](https://www.16personalities.com/profiles/c5217bf334a84): ENTP-T
 
- In my free time, I playing **Minecraft**.
+ In my free time, I play **Minecraft**.
 
 ---
 
