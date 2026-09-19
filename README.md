@@ -4,14 +4,12 @@
 
  Enthusiast of the **Linux** ecosystem.
 
- [My Personality Type](https://www.16personalities.com/profiles/c5217bf334a84): ENTP-T
-
  In my free time, I play **Minecraft**.
 
 ---
 
 ### 🛠 Languages
-![Python](./Assets/Svg/python.jpeg)
+![Python](./Assets/Svg/python.svg)
 ![HTML](./Assets/Svg/html.svg)
 ![css](./Assets/Svg/css.svg)
 ![Java](./Assets/Svg/java.svg)
